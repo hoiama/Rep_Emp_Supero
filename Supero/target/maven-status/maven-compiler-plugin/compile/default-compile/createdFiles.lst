@@ -1,0 +1,9 @@
+br/com/supero/tasklist/regras/Controller.class
+br/com/supero/tasklist/model/bean/DashBoardBean.class
+br/com/supero/tasklist/model/dao/Referencia.class
+br/com/supero/tasklist/model/entity/Task.class
+br/com/supero/tasklist/model/dao/Editar.class
+br/com/supero/tasklist/model/dao/Util.class
+br/com/supero/tasklist/model/dao/ConsultarLista.class
+br/com/supero/tasklist/model/dao/Deletar.class
+br/com/supero/tasklist/model/dao/Salvar.class
