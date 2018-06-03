@@ -21,8 +21,8 @@ TECNOLOGIAS:
 
 OBJETIVO
 
-Implementar uma tasklist utilizando Java/MySQL.
-O usuário deve poder:
+	Implementar uma tasklist utilizando Java/MySQL.
+	O usuário deve poder:
 
 	- Adicionar novas tarefas;
 	- Marcar e desmarcar o status de concluído;
@@ -30,10 +30,10 @@ O usuário deve poder:
 	- Deletar uma task;
 	- Versionamento com Git;
 
-Obs.: uma task deve conter ao menos: título e status, podendo conter adicionalmente
-descrição, datas de criação, edição, remoção e conclusão.
+	Obs.: uma task deve conter ao menos: título e status, podendo conter adicionalmente
+	descrição, datas de criação, edição, remoção e conclusão.
 
-Serão considerados diferenciais:
+	Serão considerados diferenciais:
 
 	- Camada de frontend independente do backend (API REST + frontend);
 	- Utilização de frameworks ou bibliotecas de frontend (ex: jQuery, Angular, Bootstrap);
@@ -46,8 +46,8 @@ Serão considerados diferenciais:
 
 FALTA CONCLUIR:
 
+	- Refazer usando Spring Boot ao invés sde JSF
 	- Injeçao de dependência
-	- Inversão de controle com EJB
 	- Validações no backEnd
 	- Implementar padrões de projetos
 	- Testes
