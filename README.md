@@ -1,6 +1,4 @@
-<h2> <p align= "center" > Seletivo_Supero (65% concluído) </p></h2>
-
-<h3> <p align= "center" >Processo seletivo da Supero em Santa Catarina.</p></h2>
+<h2> <p align= "center" > Sistema Cadastro de tarefas  </p></h2>
 
 
 TECNOLOGIAS:
@@ -57,7 +55,7 @@ FALTA CONCLUIR:
 
 OBSERVAÇÕES
 
-  	Projeto em desenvolvimento.
+  	Projeto em desenvolvimento (65% concluído).
 	Média prioridade
 	Previsão 04/07/2018.
 </p>
