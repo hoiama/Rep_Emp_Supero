@@ -14,9 +14,10 @@ TECNOLOGIAS:
 	- Servidor Tomcat 9
 	- Maven
 
-
-<p align="center"> <img src="/Supero/printScreen/screen1.png" width="950"/></p>
-
+<div>
+	Tela principal em JSF
+<p align="center"> <img src="/taskList_jsf/printScreen/screen1.png" width="950"/></p>
+</div>
 <p>
 
 
