@@ -6,6 +6,7 @@
 TECNOLOGIAS:
 
 	- Spring boot
+	- Angular 2
 	- CDI
 	- Hibernate
 	- SGDB PostgresSQL
@@ -56,4 +57,6 @@ FALTA CONCLUIR:
 OBSERVAÇÕES
 
   	Projeto em desenvolvimento.
+	Média prioridade
+	Previsão 04/07/2018.
 </p>

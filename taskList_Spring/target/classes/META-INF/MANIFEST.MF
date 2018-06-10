@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: taskList
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: hoiama
+Implementation-Vendor-Id: br.com.hoiama.supero
+Build-Jdk: 1.8.0_141
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/taskList
+Created-By: Maven Integration for Eclipse
+

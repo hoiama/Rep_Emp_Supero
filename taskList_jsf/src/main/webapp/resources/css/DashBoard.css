@@ -1,0 +1,89 @@
+@CHARSET "UTF-8";
+
+/* HTML */
+body {
+	font: #424242;
+	font-size: 14px;
+	background-image: url("../resources/imagens/bgDashBoard.jpg");
+}
+
+h1 {
+	font-size: 12pt;
+	margin: 0px;
+	padding: 0px;
+	font-weight: 300;
+}
+
+h3 {
+	font-size: 9pt;
+	margin: 0px;
+	padding: 0px;
+	font-weight: 200;
+}
+
+/*CLASSES */
+.div-mestre{
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	width: 1300px;
+}
+
+.div-painel-cadastro-pequeno{
+	position: relative;
+	top: 10px;
+	background-color:rgba(238, 238, 236, 0.35);
+/* 	background-color: #f3f3f3; */
+	border-radius: 10px;
+	width: 1300px;
+	height: 270px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 2px;
+}
+
+
+.div-painel-medio{
+	background-color:rgba(238, 238, 236, 0.35);
+	position: relative;
+	top: 20px;
+/* 	background-color: #f3f3f3; */
+	border-radius: 10px;
+	width: 1300px;
+	height: 300px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 2px;
+}
+
+.panelgrid-pequeno{
+	position: relative;
+	left: auto;
+	right: auto;
+	margin: auto;
+}
+
+.dataTable-tarefas {
+	width: 1200px;
+	position: relative;
+	left: auto;
+	right: auto;
+	top: 20px;
+	border: none;
+	margin: auto;
+}
+
+
+
+.panelgrid-001 {
+	position: relative;
+	left: auto;
+	right: auto;
+	margin: auto;
+	top: 50px;
+}
+
+
+/* IDs */
+
+
